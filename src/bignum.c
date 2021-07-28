@@ -43,6 +43,6 @@ void bit_array_print(bit_array* arr) {
         printf("\n");
 
     }
-
-
 }
+
+
